@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordcloud-rsp/static/css/main.1dfa595e.css",
+    "main.js": "/wordcloud-rsp/static/js/main.d4d9a40c.js",
+    "index.html": "/wordcloud-rsp/index.html",
+    "main.1dfa595e.css.map": "/wordcloud-rsp/static/css/main.1dfa595e.css.map",
+    "main.d4d9a40c.js.map": "/wordcloud-rsp/static/js/main.d4d9a40c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfa595e.css",
+    "static/js/main.d4d9a40c.js"
+  ]
+}
